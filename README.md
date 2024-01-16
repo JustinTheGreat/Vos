@@ -9,4 +9,4 @@ We take in the user's voice, memories/reflections, and allow train an AI model t
 Datagentech. (2021). dgutils [Github Repository]. https://github.com/DatagenTech/dgutils  
 MyShell. (2023). OpenVoice [Github Repository]. https://github.com/myshell-ai/OpenVoice
 
-```Documentation Reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax```
+Documentation Reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
