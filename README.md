@@ -8,5 +8,6 @@ We take in the user's voice, memories/reflections, and allow train an AI model t
 ### References
 Datagentech. (2021). dgutils [Github Repository]. https://github.com/DatagenTech/dgutils  
 MyShell. (2023). OpenVoice [Github Repository]. https://github.com/myshell-ai/OpenVoice
+Qin, Z., Zhao, W., Yu, X., & Sun, X. (2023). OpenVoice: Versatile Instant Voice Cloning. arXiv Preprint arXiv:2312. 01479.
 
 Documentation Reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
