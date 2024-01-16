@@ -1,0 +1,1 @@
+Click on this [link](https://myshell-public-repo-hosting.s3.amazonaws.com/checkpoints_1226.zip) to install checkpoints.
