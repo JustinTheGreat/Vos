@@ -13,4 +13,8 @@ Datagentech. (2021). dgutils [Github Repository]. https://github.com/DatagenTech
 MyShell. (2023). OpenVoice [Github Repository]. https://github.com/myshell-ai/OpenVoice
 Qin, Z., Zhao, W., Yu, X., & Sun, X. (2023). OpenVoice: Versatile Instant Voice Cloning. arXiv Preprint arXiv:2312. 01479.
 
+OPENAI Whisper - https://github.com/openai/whisper?tab=readme-ov-file
+- https://platform.openai.com/docs/guides/speech-to-text
+
+
 Documentation Reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
